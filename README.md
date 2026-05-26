@@ -4,6 +4,10 @@
 
 **Contactless XLM fare payments for jeepney commuters in the City of San Fernando, Pampanga.**
 
+## Demo Screenshot
+
+![SumakayAkoSaJeepney](screenshot/STELLAR SS.png)
+
 ---
 
 ## Problem
