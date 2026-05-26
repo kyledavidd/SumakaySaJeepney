@@ -6,7 +6,7 @@
 
 ## Demo Screenshot
 
-![SumakayAkoSaJeepney](screenshot/stellar-ss.png)
+![Screenshot](screenshot/stellar-ss.png)
 
 ---
 
