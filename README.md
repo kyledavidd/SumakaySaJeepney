@@ -204,6 +204,20 @@ sumakay-ako-sa-jeepney/
 
 ---
 
+## Deployment Information
+
+### Contract ID
+
+```text
+CDZQ3LYI7MG5XOWYFNR7LQKY4JADSDVTIJU7E4PUE7EZGUBWIKDLVX3P
+```
+
+### Stellar Testnet Explorer
+
+https://stellar.expert/explorer/testnet/contract/CDZQ3LYI7MG5XOWYFNR7LQKY4JADSDVTIJU7E4PUE7EZGUBWIKDLVX3P
+
+---
+
 ## License
 
 MIT © 2026 SumakayAkoSaJeepney Contributors
